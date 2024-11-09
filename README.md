@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/bpace1/github-readme-stats)
+[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpace1)](https://github.com/bpace1/github-readme-stats)
 <!--
 **bpace1/bpace1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
