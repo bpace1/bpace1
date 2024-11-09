@@ -1,8 +1,16 @@
-# About Me:
+# ⚡ About Me:
 I'm an AI student at FCEIA, passionate about the world of data and its limitless possibilities. I enjoy exploring machine learning, data science, and natural language processing.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bpace1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bpace1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpace1&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpace1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <!--
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpace1)](https://github.com/bpace1/github-readme-stats)
