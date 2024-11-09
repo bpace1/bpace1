@@ -1,14 +1,15 @@
-## Hi there 👋
+# About Me:
+I'm an AI student at FCEIA, passionate about the world of data and its limitless possibilities. I enjoy exploring machine learning, data science, and natural language processing.
 
 <img src="https://github-readme-stats.vercel.app/api?username=bpace1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-**Total Contributions:** 
+**Total Contributions:**  
 [Your Total Contributions]
 
-**Current Streak:** 
+**Current Streak:**  
 [Your Current Streak] days
 
-**Longest Streak:** 
+**Longest Streak:**  
 [Your Longest Streak] days
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bpace1&theme=dark&hide_border=false)<br/>
@@ -16,6 +17,7 @@
 
 <!--
 [![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpace1)](https://github.com/bpace1/github-readme-stats)
+
 **bpace1/bpace1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
