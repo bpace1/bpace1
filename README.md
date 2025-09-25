@@ -38,7 +38,7 @@
 
 ## 📫 Let's Connect
 - **Email:** brunopace2001@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** www.linkedin.com/in/brunopace1
 - **Location:** Rosario, Argentina
 
 *Open to collaborating on innovative data science projects and challenging opportunities!*
