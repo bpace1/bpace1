@@ -1,30 +1,44 @@
-# ⚡ About Me:
-I'm an AI student at FCEIA, passionate about the world of data and its limitless possibilities. I enjoy exploring machine learning, data science, and natural language processing.
+# Data Scientist | AI & Machine Learning
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpace1&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpace1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+**Hello! I'm Bruno Pace** - A passionate Data Scientist with expertise in building intelligent solutions using machine learning, computer vision, and natural language processing. I enjoy transforming complex data into actionable insights and creating innovative AI-driven applications.
 
-<!--
-[![Pace's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpace1)](https://github.com/bpace1/github-readme-stats)
+## 🛠️ Technical Stack
 
-**bpace1/bpace1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning & Data Science**
+- **Frameworks:** Scikit-learn, TensorFlow, OpenCV, PyTorch
+- **Data Manipulation:** Pandas, NumPy, SQL
+- **Visualization:** Matplotlib, Seaborn, Plotly
 
-Here are some ideas to get you started:
+**Development & Operations**
+- **Containerization:** Docker
+- **OS & Scripting:** Linux/Bash, Windows
+- **Automation:** Make.com, Airtable
+- **Version Control:** Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Domains of Expertise**
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Analysis & Visualization
+- Workflow Automation
+- Database Management
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpace1&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bpace1&layout=compact&theme=radical&hide_border=false)
+
+</div>
+
+## 🌟 Highlights
+- **NASA Space Apps Challenge 2024 Winner** - Developed optimized computational models for seismic detection
+- **University Technician in AI** with honors for cultural AI projects
+- **Professional experience** in end-to-end ML implementation and system administration
+
+## 📫 Let's Connect
+- **Email:** brunopace2001@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Location:** Rosario, Argentina
+
+*Open to collaborating on innovative data science projects and challenging opportunities!*
